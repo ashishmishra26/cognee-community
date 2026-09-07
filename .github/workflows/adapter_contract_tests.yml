@@ -46,6 +46,7 @@ jobs:
           - packages/graph/turbopuffer
           - packages/graph/turingdb
           - packages/vector/azureaisearch
+          - packages/vector/infino
           - packages/vector/milvus
           - packages/vector/moss
           - packages/vector/opengauss
